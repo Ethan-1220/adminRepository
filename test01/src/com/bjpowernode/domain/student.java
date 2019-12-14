@@ -14,4 +14,6 @@ public class student {
 
     private String address;
 
+    private String phone;
+
 }
